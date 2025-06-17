@@ -6,8 +6,8 @@
 		"eslint": "^5.5.0",
 		"eslint-config-wordpress": "^2.0.0",
 		"eslint-plugin-html": "^4.0.5",
-		"stylelint": "^9.5.0",
-		"stylelint-config-wordpress": "^13.1.0"
+		"stylelint": "^16.20.0",
+		"stylelint-config-wordpress": "^17.0.0"
 	},
 	"scripts": {
 		"composer:install": "composer create-project wp-coding-standards/wpcs --no-dev",
